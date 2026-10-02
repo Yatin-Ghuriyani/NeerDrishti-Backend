@@ -1,0 +1,1 @@
+{"missions":[{"mission_id":"IFREMER_GLIDER_sea057_20220128","platform_code":"sea057","wmo_code":"6903820","region":"Arabian Sea / Sea of Oman (23.60°N–24.69°N, 57.49°E–58.16°E)","n_points":822,"n_depth_levels":16,"time_start":"2022-01-01T00:00:00.000000000","time_end":"2022-03-26T04:00:00.000000000","max_depth_m":800.0,"variables":["temperature","salinity"]}]}

@@ -1,0 +1,1 @@
+{"status":"ok","timestamp":"2026-09-29T13:41:54.018027+00:00","service":"Ocean Digital Twin API","sih_ps":"26067","argo_ready":true,"hycom_ready":true,"hycom_stub":false,"glider_ready":true,"gebco_ready":true,"components":{"argo":"ready","hycom":"ready","glider":"ready","gebco":"ready"}}
